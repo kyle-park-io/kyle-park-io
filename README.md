@@ -1,9 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=I'm Kyle&fontSize=90)
+
 <div style="display: flex, height:180px">
-    <div>
-        <img
-            src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm Kyle&fontSize=90"
-        />
-    </div>
     <div>
         <img
             align="center"
