@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=I'm Kyle&fontSize=90)
 
+### 🌈 Welcome to SOKURI_CODE 👋 
+
 <div style="display: flex, height:180px">
     <div>
         <img
@@ -18,6 +20,9 @@
     </div>
 </div>
 
+### 🛠 Languages and Tools
+
+### Contact ME
 <!--
 **pjh94/pjh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
