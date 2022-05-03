@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=I'm Kyle&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm Kyle&fontSize=90)
 
-### 🌈 Welcome to SOKURI_CODE 👋 
+
+### 🌈 Welcome 👋 
 
 <div style="display: flex, height:180px">
     <div>
