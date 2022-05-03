@@ -1,20 +1,24 @@
 <div style="display: flex, height:180px">
-    <img
-        src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm Kyle&fontSize=90"
-    />
-    <img
-        align="center"
-        style="height: 180px"
-        src="https://github-readme-stats.vercel.app/api?username=pjh94&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true"
-        alt="Kyle's github stats"
-    />
-    <br />
-
-    <img
-        align="center"
-        style="height: 180px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjh94&layout=compact&theme=great-gatsby&hide_border=true"
-    />
+    <div>
+        <img
+            src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm Kyle&fontSize=90"
+        />
+    </div>
+    <div>
+        <img
+            align="center"
+            style="height: 180px"
+            src="https://github-readme-stats.vercel.app/api?username=pjh94&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true"
+            alt="Kyle's github stats"
+        />
+    </div>
+    <div>
+        <img
+            align="center"
+            style="height: 180px"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjh94&layout=compact&theme=great-gatsby&hide_border=true"
+        />
+    </div>
 </div>
 
 <!--
