@@ -4,7 +4,7 @@
 ### 🌈 Welcome 👋 
 
 <div style="display: flex, height:180px, text-align: center, justify-content: center">
-    <div>
+    <div style="justify-content: center">
         <img
             align="center"
             style="height: 180px"
@@ -12,7 +12,7 @@
             alt="Kyle's github stats"
         />
     </div>
-    <div>
+    <div style="justify-content: center">
         <img
             align="center"
             style="height: 180px"
