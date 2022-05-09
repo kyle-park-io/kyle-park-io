@@ -2,23 +2,21 @@
 
 
 ### 🌈 Welcome 👋 
-
-<div style="display: flex, height:180px, text-align: center, justify-content: center">
-    <div style="justify-content: center">
+   
+- 🌱 I’m currently learning 'TypeScript', 'Solidity'
+- 
+<div style="display: flex, height:180px">
         <img
             align="center"
             style="height: 180px"
             src="https://github-readme-stats.vercel.app/api?username=pjh94&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true"
             alt="Kyle's github stats"
         />
-    </div>
-    <div style="justify-content: center">
         <img
             align="center"
             style="height: 180px"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjh94&layout=compact&theme=great-gatsby&hide_border=true"
         />
-    </div>
 </div>
 
 ### 🛠 Languages and Tools
