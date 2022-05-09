@@ -3,7 +3,7 @@
 
 ### 🌈 Welcome 👋 
 
-<div style="display: flex, height:180px, text-align: center">
+<div style="display: flex, height:180px, text-align: center, justify-content: center">
     <div>
         <img
             align="center"
