@@ -27,7 +27,6 @@
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
 
-### Contact ME
 <!--
 **pjh94/pjh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
