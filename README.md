@@ -4,7 +4,6 @@
 ### 🌈 Welcome 👋 
    
 - 🌱 I’m currently learning 'TypeScript', 'Solidity'
-- 
 <div style="display: flex, height:180px">
         <img
             align="center"
