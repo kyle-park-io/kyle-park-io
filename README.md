@@ -3,18 +3,18 @@
 
 ### 🌈 Welcome 👋 
    
-- 🌱 I’m currently learning 'TypeScript', 'Solidity'
+- 🌱 block chain core developer
 <div style="display: flex, height:180px">
         <img
             align="center"
             style="height: 180px"
-            src="https://github-readme-stats.vercel.app/api?username=imkyle94&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true"
+            src="https://github-readme-stats.vercel.app/api?username=kyle-park-io&show_icons=true&include_all_commits=true&theme=great-gatsby&hide_border=true"
             alt="Kyle's github stats"
         />
         <img
             align="center"
             style="height: 180px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkyle94&layout=compact&theme=great-gatsby&hide_border=true"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-park-io&layout=compact&theme=great-gatsby&hide_border=true"
         />
 </div>
 
@@ -28,7 +28,7 @@
 <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
 
 <!--
-**imkyle94/imkyle94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kyle-park-io/kyle-park-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
