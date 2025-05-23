@@ -4,6 +4,11 @@
 ### 🌈 Welcome 👋 
    
 - 🌱 block chain (core) developer
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{kyle-park-io}"/>
+</a>
+
 <div style="display: flex, height:180px">
         <img
             align="center"
