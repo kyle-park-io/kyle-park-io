@@ -51,7 +51,7 @@
 
 **<a href="https://github.com/door-protocol" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Door_Protocol-181717?style=flat&logo=github&logoColor=white" alt="Door Protocol"/></a>**
 
-- Mantle Global Hackathon 2025 submission
+- 🏆 **1st Place** - Mantle Global Hackathon 2025 (DeFi & Composabilities Track)
 
 </td>
 </tr>
